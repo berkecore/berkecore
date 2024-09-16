@@ -1,5 +1,9 @@
 # Hi there, I'm Berke 👋
 
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+</div>
+
 ## I'm a Jr. Backend Developer!!
 
 - 🌱 I’m currently learning backend things 💀
