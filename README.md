@@ -10,17 +10,6 @@
 - 🥅 2024 Goals: Learn more about backend 😶‍🌫️
 - ⚡ Fun fact: I love to play basketball and read manga 🤐
 
-### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/berkecore#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/berkecore#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/berkecore#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/berkecore#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/berkecore#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/berkecore#gh-dark-mode-only)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
