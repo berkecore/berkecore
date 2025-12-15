@@ -7,7 +7,7 @@
 ## I'm a Jr. Backend Developer!!
 
 - 🌱 I’m currently pushing my degree at computer engineering 💀
-- ⚡ Fun fact: I love to play basketball and read manga 🤐
+- ⚡ Fun fact: I love playing basketball and reading manga 🤐
 
 ### Languages and Tools:
 
