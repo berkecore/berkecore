@@ -1,15 +1,8 @@
-# Hi there, I'm Berke 👋
+# Hi there, I'm Berke
 
 <div align="center">
   <img height="300" src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif"/>
 </div>
-
-## I'm a Jr. Backend Developer!!
-
-- 🌱 I’m currently pushing my degree at computer engineering 💀
-- ⚡ Fun fact: I love playing basketball and reading manga 🤐
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=berkecore)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
@@ -22,12 +15,3 @@
 <img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<br />
-<br />
-
----
-
-[twitter]: https://twitter.com/berkecore
-[instagram]: https://instagram.com/berkecore
-[linkedin]: https://linkedin.com/in/berkecore
