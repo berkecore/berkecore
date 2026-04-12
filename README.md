@@ -9,7 +9,7 @@
 - 🌱 I’m currently pushing my degree at computer engineering 💀
 - ⚡ Fun fact: I love playing basketball and reading manga 🤐
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkecore)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=berkecore)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
