@@ -9,6 +9,8 @@
 - 🌱 I’m currently pushing my degree at computer engineering 💀
 - ⚡ Fun fact: I love playing basketball and reading manga 🤐
 
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkecore)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
